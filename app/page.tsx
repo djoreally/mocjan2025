@@ -99,7 +99,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-8">Schedule Your Mobile Oil Change</h2>
           <p className="text-xl text-center mb-8">
-            Ready for a convenient oil change near you? Fill out the form below to book your appointment!
+            Get in Touch with Philadelphia's Premier Mobile Oil Change Service
           </p>
           <ContactFormEmbed />
         </div>
