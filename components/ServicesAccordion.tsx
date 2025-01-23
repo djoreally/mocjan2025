@@ -23,7 +23,7 @@ const services: Service[] = [
     title: "Full Synthetic Oil Change",
     description:
       "Premium synthetic oil change service performed right at your location. Our certified technicians use top-quality synthetic oil for superior engine protection and performance.",
-    price: "$69.99",
+    price: "$99.99",
     rating: 4.9,
     reviews: 200,
     image:
@@ -42,7 +42,7 @@ const services: Service[] = [
     title: "Conventional Oil Change",
     description:
       "Traditional oil change service that comes to you. Perfect for vehicles that don't require synthetic oil, providing reliable engine protection at an economical price.",
-    price: "$39.99",
+    price: "$79.99",
     rating: 4.8,
     reviews: 180,
     image:

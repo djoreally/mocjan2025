@@ -52,7 +52,7 @@ export default function MembershipPage() {
               <div>
                 <h3 className="text-xl font-medium text-blue-600">Family Oil Change Plan</h3>
                 <p className="text-gray-600">Ideal for households with multiple vehicles needing regular maintenance</p>
-                <p className="font-semibold mt-2">$19.99/month</p>
+                <p className="font-semibold mt-2">$79.99/month</p>
               </div>
               <div>
                 <h3 className="text-xl font-medium text-blue-600">Business Fleet Maintenance</h3>
