@@ -63,12 +63,12 @@ export default function TopMotorOilsPage() {
       rating: 9.2,
       description: "Premium synthetic oil with enhanced protection and performance",
       keyBenefits: [
-        "Superior anti-wear protection",
-        "Excellent cold-start performance",
-        "Maintains viscosity in high temperatures",
-        "Helps extend engine life"
+        "Excellent wear protection",
+        "Keeps engine clean",
+        "High temperature protection",
+        "Great for high mileage vehicles"
       ],
-      price: "$42.99 per 5-quart container"
+      price: "$36.99 per 5-quart container"
     }
   ]
 
@@ -96,7 +96,7 @@ export default function TopMotorOilsPage() {
                 <Check className="w-5 h-5 text-green-500 mr-2 flex-shrink-0 mt-1" />
                 <span>Viscosity stability</span>
               </li>
-              <li className="flex items-start">
+              <li className="flex items-start"></li>
                 <Check className="w-5 h-5 text-green-500 mr-2 flex-shrink-0 mt-1" />
                 <span>Performance additives</span>
               </li>
