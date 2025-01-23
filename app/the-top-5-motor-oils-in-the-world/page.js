@@ -1,14 +1,14 @@
 "use client";
 
-import type { Metadata } from "next"
-import Link from "next/link"
-import Image from "next/image"
-import { Check } from "lucide-react"
+import { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { Check } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Top 5 Motor Oils in the World | Ultimate Performance & Protection",
   description: "Discover the best motor oils that offer superior engine protection, performance, and longevity for your vehicle. Expert-rated top 5 motor oils compared.",
-}
+};
 
 export default function TopMotorOilsPage() {
   const topMotorOils = [
@@ -18,33 +18,9 @@ export default function TopMotorOilsPage() {
       description: "Full synthetic oil offering exceptional engine protection and extended drain intervals",
       keyBenefits: [
         "Designed for high-performance and high-mileage vehicles",
-        "Superior protection against engine wear",
-        "Excellent low and high-temperature performance",
-        "Up to 15,000 miles between oil changes"
-      ],
-      price: "$49.99 per 5-quart container"
-    },
-    {
-      name: "Pennzoil Platinum Full Synthetic",
-      rating: 9.6,
-      description: "Premium synthetic oil with PurePlus Technology for ultimate engine cleanliness",
-      keyBenefits: [
-        "Converts natural gas into a pure synthetic base oil",
-        "Provides maximum protection against engine deposits",
-        "Exceptional engine cleanliness",
-        "Maintains viscosity in extreme temperatures"
-      ],
-      price: "$45.99 per 5-quart container"
-    },
-    {
-      name: "Royal Purple HPS",
-      rating: 9.5,
-      description: "High-performance synthetic oil for maximum engine protection and performance",
-      keyBenefits: [
-        "Proprietary Synerlec additive technology",
-        "Reduces friction and wear",
-        "Improves fuel economy",
-        "Excellent for both street and racing applications"
+        "Provides outstanding wear protection",
+        "Helps maintain fuel economy",
+        "Excellent low-temperature capabilities"
       ],
       price: "$54.99 per 5-quart container"
     },
