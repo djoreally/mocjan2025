@@ -6,7 +6,7 @@ import { MapPin, Users, Clock, Heart } from "lucide-react"
 export const metadata: Metadata = {
   title: "About MOMS Mobile Oil Change | Expert Oil Change Services Near You",
   description:
-    "Learn about MOMS Mobile Oil Change, serving [City, State] and surrounding areas with convenient, expert mobile oil change services. Discover why we're the top choice for oil changes near you.",
+    "Learn about MOMS Mobile Oil Change, servingAmbler, PA and surrounding areas with convenient, expert mobile oil change services. Discover why we're the top choice for oil changes near you.",
 }
 
 export default function AboutPage() {
@@ -18,7 +18,7 @@ export default function AboutPage() {
           <div className="flex flex-col items-center text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">About MOMS Mobile Oil Change</h1>
             <p className="text-xl mb-8">
-              Your Trusted Mobile Oil Change Service in [City, State] and Surrounding Areas
+              Your Trusted Mobile Oil Change Service inAmbler, PA and Surrounding Areas
             </p>
           </div>
         </div>
@@ -33,7 +33,7 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold mb-6">Our Mission: Convenient Oil Changes Near You</h2>
               <p className="mb-6">
                 At MOMS Mobile Oil Change, we believe in making vehicle maintenance as convenient and hassle-free as
-                possible for the residents and businesses of [City, State], and the surrounding areas. Founded with a
+                possible for the residents and businesses ofAmbler, PA, and the surrounding areas. Founded with a
                 simple mission, we aim to bring quality mobile oil change services directly to you – whether you're at
                 home, at work, or on the go.
               </p>
@@ -57,7 +57,7 @@ export default function AboutPage() {
                     icon: MapPin,
                     title: "Convenient Oil Changes at Your Doorstep",
                     description:
-                      "Serving [City, State], and nearby communities, we bring expert oil change services directly to your location. No more waiting at a traditional shop.",
+                      "ServingAmbler, PA, and nearby communities, we bring expert oil change services directly to your location. No more waiting at a traditional shop.",
                   },
                   {
                     icon: Users,
@@ -95,7 +95,7 @@ export default function AboutPage() {
                 <h3 className="text-2xl font-bold mb-4">Get Your Oil Change Today!</h3>
                 <p className="mb-6">
                   Let us take the hassle out of your vehicle maintenance. Choose MOMS Mobile Oil Change for a
-                  convenient, reliable, and affordable oil change experience in [City, State], and the surrounding
+                  convenient, reliable, and affordable oil change experience inAmbler, PA, and the surrounding
                   areas.
                 </p>
                 <Link

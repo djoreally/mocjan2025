@@ -90,7 +90,7 @@ const FaqSection = () => {
     locations: [
       {
         q: "Where do you offer mobile oil change services?",
-        a: "We offer our mobile oil change service throughout [City, State] and surrounding areas. Contact us to check availability in your specific location.",
+        a: "We offer our mobile oil change service throughoutAmbler, PA and surrounding areas. Contact us to check availability in your specific location.",
       },
       {
         q: "How far will you travel for a mobile oil change?",

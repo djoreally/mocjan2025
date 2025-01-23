@@ -42,8 +42,7 @@ export default function Home() {
                 Need a Mobile Oil Change Near You?
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                MOMS Mobile Oil Change brings convenient, professional service right to your doorstep. No more waiting
-                at shops - we come to you!
+              Get your oil changed right at your home. Our mobile mechanics will change your oil right in your driveway, garage or parking lot.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <Link

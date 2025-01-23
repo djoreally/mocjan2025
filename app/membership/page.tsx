@@ -93,14 +93,14 @@ export default function MembershipPage() {
         <div className="mb-12">
           <h2 className="text-3xl font-bold text-center mb-6">MOMS Mobile Oil Change Service Areas</h2>
           <p className="text-center mb-4">
-            MOMS Mobile Oil Change proudly serves [City, State] and surrounding areas, including:
+            MOMS Mobile Oil Change proudly serves Ambler, PA and surrounding areas, including:
           </p>
           <ul className="grid md:grid-cols-3 gap-4 text-center">
             <li>Downtown [City]</li>
-            <li>[Neighborhood 1]</li>
-            <li>[Neighborhood 2]</li>
-            <li>[Nearby City 1]</li>
-            <li>[Nearby City 2]</li>
+            <li>Ambler</li>
+            <li>Horsham</li>
+            <li>Main Line</li>
+            <li>Warminster</li>
             <li>[Nearby City 3]</li>
           </ul>
         </div>

@@ -52,7 +52,7 @@ export default function MembershipPage() {
               <div>
                 <h3 className="text-xl font-medium text-blue-600">Family Oil Change Plan</h3>
                 <p className="text-gray-600">Ideal for households with multiple vehicles needing regular maintenance</p>
-                <p className="font-semibold mt-2">$79.99/month</p>
+                <p className="font-semibold mt-2">$19.99/month</p>
               </div>
               <div>
                 <h3 className="text-xl font-medium text-blue-600">Business Fleet Maintenance</h3>
@@ -93,14 +93,14 @@ export default function MembershipPage() {
         <div className="mb-12">
           <h2 className="text-3xl font-bold text-center mb-6">MOMS Mobile Oil Change Service Areas</h2>
           <p className="text-center mb-4">
-            MOMS Mobile Oil Change proudly serves [City, State] and surrounding areas, including:
+            MOMS Mobile Oil Change proudly serves Ambler, PA and surrounding areas, including:
           </p>
           <ul className="grid md:grid-cols-3 gap-4 text-center">
             <li>Downtown [City]</li>
-            <li>[Neighborhood 1]</li>
-            <li>[Neighborhood 2]</li>
-            <li>[Nearby City 1]</li>
-            <li>[Nearby City 2]</li>
+            <li>Ambler</li>
+            <li>Horsham</li>
+            <li>Main Line</li>
+            <li>Warminster</li>
             <li>[Nearby City 3]</li>
           </ul>
         </div>
