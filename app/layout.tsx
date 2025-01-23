@@ -45,6 +45,8 @@ export default function RootLayout({
         <CouponPopup />
         <CookieConsent />
         <ReturnToTop />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
