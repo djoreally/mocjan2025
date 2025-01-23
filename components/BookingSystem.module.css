@@ -1,0 +1,105 @@
+.bookingContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.step {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.progressBar {
+  width: 100%;
+  height: 4px;
+  background: #e0e0e0;
+  margin: 20px 0;
+  border-radius: 2px;
+}
+
+.progress {
+  width: 0%;
+  height: 100%;
+  background: #2563eb; /* Change to primary blue color */
+  transition: width 0.3s ease;
+  border-radius: 2px;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.formGroup input,
+.formGroup select,
+.formGroup textarea {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 2px solid #e0e0e0;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.formGroup input:focus,
+.formGroup select:focus,
+.formGroup textarea:focus {
+  border-color: #2563eb; /* Change to primary blue color */
+  outline: none;
+}
+
+.formGroup .button {
+  /* Changed to local class */
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.formGroup .button:hover {
+  /* Changed to local class */
+  background: #1d4ed8;
+}
+
+.backButton {
+  background: #64748b; /* Change to a neutral color */
+}
+
+.backButton:hover {
+  background: #475569; /* Darker shade of neutral color for hover */
+}
+
+.confirmation {
+  text-align: center;
+  padding: 20px;
+}
+
+.carIcon {
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+  fill: #2563eb; /* Change to primary blue color */
+}
+
+.bookAnother {
+  max-width: 200px;
+  margin: 20px auto;
+}
+

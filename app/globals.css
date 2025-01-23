@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add these styles for the Swiper component */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #3b82f6 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #3b82f6 !important;
+}
+
+.review-swiper {
+  padding-bottom: 50px !important;
+}
+
+/* Add any other non-critical styles here */
+
