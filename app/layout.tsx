@@ -11,6 +11,7 @@ import "../styles/contact-form.css"
 import { useEffect } from "react"
 import ReturnToTop from "@/components/ReturnToTop"
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const poppins = Poppins({ subsets: ["latin"], weight: ["400", "500", "600", "700"] })
 
