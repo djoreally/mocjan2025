@@ -1,9 +1,6 @@
-# *
+# Allow all user agents full access
 User-agent: *
 Allow: /
-
-# Host
-Host: https://momsoilchange.com
 
 # Sitemaps
 Sitemap: https://momsoilchange.com/sitemap.xml
