@@ -1,0 +1,9 @@
+# Query: We proudly serve Philadelphia and its surrounding neighborhoods, including Center City, Fishtown, South Philly, Bala Cynwyd, Cherry Hill, and King of Prussia.
+# ContextLines: 1
+
+1 result - 1 file
+
+components/ServicesSection.tsx:
+  61          <h2 className="text-3xl font-bold text-center mb-2">Our Services</h2>
+  62:         <p className="text-xl text-center text-black mb-8">We proudly serve Philadelphia and its surrounding neighborhoods, including Center City, Fishtown, South , Bala Cynwyd, Cherry Hill, and King of Prussia.</p>
+  63          <div className="space-y-6">
