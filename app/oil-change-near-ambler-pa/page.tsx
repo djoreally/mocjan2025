@@ -22,7 +22,7 @@ const OilChangePage = () => {
             Get the best oil change services near Ambler, PA. Schedule your appointment today!
           </p>
           <Link
-            href="/schedule"
+            href="/contact?subject=Oil%20Change%20Request"
             className="bg-white text-blue-600 px-8 py-3 rounded-md font-semibold hover:bg-blue-50 transition duration-300"
           >
             Schedule Now
@@ -33,7 +33,10 @@ const OilChangePage = () => {
       {/* Service Overview */}
       <section className="py-16">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12">Why Choose Us?</h2>
+          <h2 className="text-3xl font-bold mb-4">Our Services</h2>
+          <p className="text-lg mb-8">
+            We offer a range of oil change services to keep your vehicle running smoothly.
+          </p>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
               <h3 className="text-2xl font-semibold mb-4">Reliable & Affordable Service</h3>

@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function PrivacyPolicy() {
   return (
     <div className="container mx-auto px-4 py-12">
@@ -52,6 +54,10 @@ export default function PrivacyPolicy() {
           </p>
         </section>
       </div>
+
+      <Link href="/privacy" className="text-blue-600 underline">
+        Read our Privacy Policy
+      </Link>
     </div>
   )
 }
