@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <!-- Clarity tracking code for http://momsoilchange.com/ -->
+        {/* Clarity tracking code for http://momsoilchange.com/ */}
         <script>
           {`
             (function(c,l,a,r,i,t,y){
