@@ -1,8 +1,8 @@
-# *
+# Allow all user agents full access
 User-agent: *
 Allow: /
 
-# Host
+# Specify the canonical host URL
 Host: https://momsoilchange.com
 
 # Sitemaps
