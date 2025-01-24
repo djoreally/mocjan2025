@@ -2,9 +2,6 @@
 User-agent: *
 Allow: /
 
-# Specify the canonical host URL
-Host: https://momsoilchange.com
-
 # Sitemaps
 Sitemap: https://momsoilchange.com/sitemap.xml
 Sitemap: https://momsoilchange.com/server-sitemap.xml
