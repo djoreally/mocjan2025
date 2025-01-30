@@ -3,7 +3,6 @@
 import { Poppins } from "next/font/google"
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
-import CouponPopup from "@/components/CouponPopup"
 import CookieConsent from "@/components/CookieConsent"
 import "./globals.css"
 import "../styles/critical.css"
@@ -42,7 +41,6 @@ export default function RootLayout({
         <div id="optedInFormWrapper"></div>
         <script src="https://esvcs.enginemailer.com/Scripts/viewform.js?id=G7H0sxuE5nmLCIZB7nTyCA%3D%3D&sc=87axo7c90AlrgsICi1BN8Q%3D%3D&type=new"></script>
         <Footer />
-        <CouponPopup />
         <CookieConsent />
         <ReturnToTop />
         <Analytics />

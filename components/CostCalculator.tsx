@@ -10,11 +10,11 @@ const CostCalculator = () => {
   const prices = {
     car: {
       conventional: 79.99,
-      synthetic: 99.99,
+      synthetic: 99.00,
     },
     truck: {
       conventional: 79.99,
-      synthetic: 99.99,
+      synthetic: 99.00,
     },
   }
 

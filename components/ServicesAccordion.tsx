@@ -23,7 +23,7 @@ const services: Service[] = [
     title: "Full Synthetic Oil Change",
     description:
       "Premium synthetic oil change service performed right at your location. Our certified technicians use top-quality synthetic oil for superior engine protection and performance.",
-    price: "$99.99",
+    price: "$99.00",
     rating: 4.9,
     reviews: 200,
     image:
