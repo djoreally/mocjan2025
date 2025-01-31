@@ -19,7 +19,7 @@ export default function FranchisePage() {
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Own a MOMS Mobile Oil Change Franchise</h1>
             <p className="text-xl mb-8">
               Join the revolution in mobile automotive services and build a lucrative business with industry-leading
-              support!
+              support.
             </p>
             <Link
               href="#contact"
