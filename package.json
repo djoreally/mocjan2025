@@ -59,6 +59,7 @@
     "react-chartjs-2": "latest",
     "react-day-picker": "8.10.1",
     "react-dom": "^18",
+    "react-facebook-pixel": "^1.0.4",
     "react-flatpickr": "latest",
     "react-hook-form": "latest",
     "react-resizable-panels": "^2.1.7",
