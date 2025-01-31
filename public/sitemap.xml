@@ -13,12 +13,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://momsoilchange.com/fleet-login</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://momsoilchange.com/services</loc>
     <lastmod>2023-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -44,54 +38,6 @@
   </url>
   <url>
     <loc>https://momsoilchange.com/magazine/features</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/reports</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/appointments</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/appointments/schedule</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/appointments/edit/[id]</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/vehicles</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/vehicles/edit/[id]</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/fleet-dashboard/vehicles/add</loc>
     <lastmod>2023-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -151,36 +97,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://momsoilchange.com/blog/mobile-oil-change-near-me</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/blog/not-found</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/blog/[slug]</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/blog/mobile-oil-change-services</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/blog/the-importance-of-choosing-the-right-engine-oil</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://momsoilchange.com/faq</loc>
     <lastmod>2023-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -194,12 +110,6 @@
   </url>
   <url>
     <loc>https://momsoilchange.com/membership</loc>
-    <lastmod>2023-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://momsoilchange.com/oil-change-near-ambler-pa</loc>
     <lastmod>2023-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
