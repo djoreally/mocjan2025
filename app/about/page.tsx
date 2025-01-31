@@ -120,7 +120,7 @@ export default function AboutPage() {
               running at their best with our mobile oil change service.
             </p>
             <Link
-              href="/schedule"
+              href="https://momsoilchange.bookyouroilchange.com/"
               className="inline-block bg-blue-600 text-white px-8 py-4 rounded-md font-semibold text-lg hover:bg-blue-700 transition duration-300"
             >
               Schedule Your Mobile Oil Change

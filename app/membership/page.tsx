@@ -65,7 +65,7 @@ export default function MembershipPage() {
 
         <div className="text-center mb-12">
           <Link
-            href="/schedule"
+            href="https://momsoilchange.bookyouroilchange.com/"
             className="inline-block bg-blue-600 text-white px-8 py-3 rounded-md text-lg font-semibold hover:bg-blue-700 transition-colors"
           >
             Schedule Your Mobile Oil Change Appointment Today!
@@ -160,7 +160,7 @@ export default function MembershipPage() {
         <div className="text-center">
           <h2 className="text-3xl font-bold mb-6">Ready for Convenient, Professional Oil Changes?</h2>
           <Link
-            href="/schedule"
+            href="https://momsoilchange.bookyouroilchange.com/"
             className="inline-block bg-blue-600 text-white px-8 py-3 rounded-md text-lg font-semibold hover:bg-blue-700 transition-colors"
           >
             Book Your MOMS Mobile Oil Change Now!
