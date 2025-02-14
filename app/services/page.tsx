@@ -216,7 +216,7 @@ export default function ServicesPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">MOMS Mobile Oil Change Services</h1>
           <p className="text-xl md:text-2xl mb-8">Quality mobile oil change service at everyday low prices</p>
           <Link
-            href="https://momsoilchange.bookyouroilchange.com/"
+            href="https://moms.bookyouroilchange.com/"
             className="bg-white text-blue-600 px-6 py-3 rounded-md text-lg font-semibold hover:bg-blue-50 transition-colors"
           >
             Schedule Your Service Now
@@ -272,7 +272,7 @@ export default function ServicesPage() {
 
         <div className="text-center">
           <Link
-            href="https://momsoilchange.bookyouroilchange.com/"
+            href="https://moms.bookyouroilchange.com/"
             className="bg-blue-600 text-white px-8 py-4 rounded-md text-lg font-semibold hover:bg-blue-700 transition-colors"
           >
             Book Your Oil Change

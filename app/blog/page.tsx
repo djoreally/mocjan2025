@@ -48,7 +48,7 @@ export default async function Blog() {
         <h2 className="text-2xl font-bold mb-4">Need a Mobile Oil Change?</h2>
         <p className="mb-4">Don't wait! Schedule your convenient oil change service today.</p>
         <Link
-          href="https://momsoilchange.bookyouroilchange.com/"
+          href="https://moms.bookyouroilchange.com/"
           className="inline-block bg-blue-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-blue-700 transition-colors"
         >
           Book Your Mobile Oil Change

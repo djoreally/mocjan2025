@@ -64,7 +64,7 @@ const Header = () => {
               <span>Call us at 1-215-767-2125</span>
             </a>
             <Link
-              href="https://momsoilchange.bookyouroilchange.com/"
+              href="https://moms.bookyouroilchange.com/"
               className="bg-primary-600 text-white px-4 py-2 rounded-md hover:bg-primary-700 transition duration-300"
             >
               Book Now
@@ -128,7 +128,7 @@ const Header = () => {
             <Link href="/faq" className="block py-2 text-primary-700 hover:text-primary-800" onClick={closeMobileMenu}>
               FAQ
             </Link>
-            <Link href="https://momsoilchange.bookyouroilchange.com/" className="block py-2 text-primary-600 font-semibold" onClick={closeMobileMenu}>
+            <Link href="https://moms.bookyouroilchange.com/" className="block py-2 text-primary-600 font-semibold" onClick={closeMobileMenu}>
               Book Now
             </Link>
             <Link
