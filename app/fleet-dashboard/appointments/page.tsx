@@ -138,7 +138,7 @@ export default function AppointmentsPage() {
           <div className="px-4 py-6 sm:px-0">
             <div className="mb-4 flex justify-between items-center">
               <Link
-                href="/fleet-dashboard/appointmentshttps://moms.bookyouroilchange.com/"
+                href="/fleet-dashboard/appointmentshttps://momsoilchange.bookyouroilchange.com/"
                 className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
               >
                 Schedule New Appointment

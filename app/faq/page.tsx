@@ -285,7 +285,7 @@ const FaqSection = () => {
           <h2 className="text-2xl font-bold mb-4">Ready for a Convenient Mobile Oil Change?</h2>
           <p className="mb-6">Experience the ease of our mobile oil change service. We come to you!</p>
           <Link
-            href="https://moms.bookyouroilchange.com/"
+            href="https://momsoilchange.bookyouroilchange.com/"
             className="inline-block bg-blue-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-blue-700 transition-colors"
           >
             Schedule Your Mobile Oil Change

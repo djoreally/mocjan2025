@@ -117,7 +117,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="https://moms.bookyouroilchange.com/" className="text-gray-300 hover:text-white transition-colors">
+                <Link href="https://momsoilchange.bookyouroilchange.com/" className="text-gray-300 hover:text-white transition-colors">
                   Book Now
                 </Link>
               </li>

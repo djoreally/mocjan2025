@@ -66,7 +66,7 @@ const CouponPopup = () => {
           <X size={24} />
         </button>
         <h2 className="text-2xl font-bold mb-4 text-center">First-Time Customer Special</h2>
-        <p className="mb-4 text-center">Enjoy 20% off your first oil change!</p>
+        <p className="mb-4 text-center">Enjoy $10 off your first oil change!</p>
         <div className="text-center mb-4">
           <p className="font-semibold">Promo Code:</p>
           <p className="text-3xl font-bold text-blue-600">WELCOME20</p>
