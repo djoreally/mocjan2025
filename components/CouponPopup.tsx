@@ -69,7 +69,7 @@ const CouponPopup = () => {
         <p className="mb-4 text-center">Enjoy $10 off your first oil change!</p>
         <div className="text-center mb-4">
           <p className="font-semibold">Promo Code:</p>
-          <p className="text-3xl font-bold text-blue-600">WELCOME20</p>
+          <p className="text-3xl font-bold text-blue-600">WELCOME10</p>
         </div>
         <button
           onClick={handleClose}

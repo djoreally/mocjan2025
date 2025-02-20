@@ -15,7 +15,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 py-24 z-20">
         <div className="max-w-4xl text-center mx-auto space-y-8">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight text-white text-center mb-4">
-            PHILADELPHIA'S FIRST CHOICE FOR <span className="text-blue-500">MOBILE OIL CHANGES</span>
+            MOMS Mobile Oil Change – Philadelphia’s #1 <span className="text-blue-500">Mobile Oil Change Service</span>
             <span className="block mt-2"></span>
           </h1>
           <p className="text-2xl text-white text-center mb-8">
