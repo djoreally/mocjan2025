@@ -134,7 +134,7 @@ const MainNav = ({ onNavigate }: MainNavProps) => {
       <Link href="https://momsoilchange.bookyouroilchange.com/" className="text-gray-700 hover:text-blue-600" onClick={handleNavigate}>
         Schedule
       </Link>
-      <Link href="/login" className="text-gray-700 hover:text-blue-600" onClick={handleNavigate}>
+      <Link href="https://bookyouroilchange.com/signup" className="text-gray-700 hover:text-blue-600" onClick={handleNavigate}>
         Login
       </Link>
       <Link href="/fleet-login" className="text-gray-700 hover:text-blue-600" onClick={handleNavigate}>

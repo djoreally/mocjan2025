@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
           <h2 className="text-2xl font-semibold mb-4">How We Use Your Information</h2>
           <p className="mb-4">We use the information we collect to:</p>
           <ul className="list-disc pl-6 mb-4">
-            <li>Provide and maintain our services</li>
+            <li>Provide and maintain Our Oil Change Services</li>
             <li>Process your appointments and transactions</li>
             <li>Send you service reminders and updates</li>
             <li>Respond to your comments and questions</li>

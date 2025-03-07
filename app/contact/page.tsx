@@ -4,7 +4,7 @@ import ContactFormEmbed from "@/components/ContactFormEmbed"
 export const metadata: Metadata = {
   title: "Contact MOMS Mobile Oil Change | Schedule Your Oil Change Near You",
   description:
-    "Get in touch with MOMS Mobile Oil Change for all your mobile oil change needs. Schedule an appointment or inquire about our services inAmbler, PA and surrounding areas.",
+    "Get in touch with MOMS Mobile Oil Change for all your mobile oil change needs. Schedule an appointment or inquire about Our Oil Change Services inAmbler, PA and surrounding areas.",
 }
 
 export default function Contact() {
@@ -13,7 +13,7 @@ export default function Contact() {
       <h1 className="text-3xl font-bold mb-6">Contact MOMS Mobile Oil Change</h1>
       <div className="max-w-2xl mx-auto">
         <p className="mb-8">
-          Need to schedule a mobile oil change or have questions about our services? Fill out the form below, and we'll
+          Need to schedule a mobile oil change or have questions about Our Oil Change Services? Fill out the form below, and we'll
           get back to you as soon as possible. Our team is ready to bring convenient oil changes right to your location!
         </p>
         <ContactFormEmbed />

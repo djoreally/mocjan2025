@@ -7,15 +7,15 @@ export default function TermsOfService() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
           <p>
-            By accessing or using our services, you agree to be bound by these Terms of Service. If you disagree with
-            any part of the terms, you may not access our services.
+            By accessing or using Our Oil Change Services, you agree to be bound by these Terms of Service. If you disagree with
+            any part of the terms, you may not access Our Oil Change Services.
           </p>
         </section>
 
         <section>
           <h2 className="text-2xl font-semibold mb-4">Service Description</h2>
           <p className="mb-4">
-            MOMS Mobile Oil Change provides mobile oil change and fleet maintenance services. Our services include:
+            MOMS Mobile Oil Change provides mobile oil change and fleet maintenance services. Our Oil Change Services include:
           </p>
           <ul className="list-disc pl-6 mb-4">
             <li>Mobile oil changes</li>
@@ -42,14 +42,14 @@ export default function TermsOfService() {
 
         <section>
           <h2 className="text-2xl font-semibold mb-4">Service Warranty</h2>
-          <p>Our services come with a standard warranty. Specific terms and conditions apply to different services.</p>
+          <p>Our Oil Change Services come with a standard warranty. Specific terms and conditions apply to different services.</p>
         </section>
 
         <section>
           <h2 className="text-2xl font-semibold mb-4">Limitation of Liability</h2>
           <p>
             MOMS Mobile Oil Change is not liable for indirect, incidental, special, or consequential damages resulting
-            from the use of our services.
+            from the use of Our Oil Change Services.
           </p>
         </section>
 

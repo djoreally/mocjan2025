@@ -58,7 +58,7 @@ const ServicesSection = () => {
   return (
     <section className="bg-gray-100 py-12">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-2">Our Services</h2>
+        <h2 className="text-3xl font-bold text-center mb-2">Our Oil Change Services</h2>
         <p className="text-xl text-center text-black mb-8">We proudly serve the Philadelphia area, including Center City, South Jersey,
           Bucks County and Montgomery Counties.</p>
         <div className="space-y-6">

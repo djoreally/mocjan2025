@@ -28,7 +28,7 @@ const services: Service[] = [
     reviews: 200,
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/momsoilchange_367348864_306493548455608_1284110913582803278_n.webp-rD02AGkGrLcnhV9xnF3jSA1OYi2ROj.jpeg",
-    recommendedInterval: "Recommended every 7,500 miles or when your oil reminder activates",
+    recommendedInterval: "Recommended every 5,000 miles or when your oil reminder activates",
     features: [
       "Premium synthetic oil (up to 5 quarts)",
       "New oil filter installation",

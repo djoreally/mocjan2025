@@ -129,7 +129,7 @@ export default function MembershipPage() {
             <div>
               <h3 className="text-lg font-medium">How do I find oil change services near me?</h3>
               <p className="text-gray-600">
-                With MOMS Mobile Oil Change, you don't need to search for "oil change near me." We bring our services
+                With MOMS Mobile Oil Change, you don't need to search for "oil change near me." We bring Our Oil Change Services
                 directly to your location, whether it's your home, office, or anywhere else convenient for you.
               </p>
             </div>

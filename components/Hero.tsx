@@ -32,7 +32,7 @@ export default function Hero() {
               href="/services"
               className="bg-gray-200 text-gray-900 px-8 py-4 rounded-md text-lg font-semibold hover:bg-gray-300 transition-colors inline-flex items-center justify-center"
             >
-              Our Services
+              Our Oil Change Services
             </Link>
           </div>
         </div>

@@ -3,7 +3,6 @@
 import { Poppins } from "next/font/google"
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
-import CookieConsent from "@/components/CookieConsent"
 import "./globals.css"
 import "../styles/critical.css"
 import "../styles/contact-form.css"
@@ -31,7 +30,6 @@ export default function RootLayout({
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
-        <CookieConsent />
         <ReturnToTop />
         <Analytics />
         <SpeedInsights />

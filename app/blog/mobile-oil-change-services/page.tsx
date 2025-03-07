@@ -15,7 +15,7 @@ export default function BlogPost() {
       title="Mobile Oil Change Services | MOMS Mobile Oil Change"
       content={`
         <p>At MOMS Mobile Oil Change, we offer a comprehensive range of mobile oil change services designed to keep your vehicle running smoothly. Our professional technicians bring the service to you, saving you time and hassle.</p>
-        <h2>Our Services Include:</h2>
+        <h2>Our Oil Change Services Include:</h2>
         <ul>
           <li><strong>Full Synthetic Oil Change:</strong> Using top-quality synthetic oils for superior engine protection.</li>
           <li><strong>Conventional Oil Change:</strong> A cost-effective option for vehicles that don't require synthetic oil.</li>
@@ -32,7 +32,7 @@ export default function BlogPost() {
           <li>Battery check and replacement</li>
           <li>Fluid top-offs</li>
         </ul>
-        <p>All our services are performed by certified technicians using high-quality parts and fluids. We're committed to providing convenient, professional service that keeps your vehicle in top condition.</p>
+        <p>All Our Oil Change Services are performed by certified technicians using high-quality parts and fluids. We're committed to providing convenient, professional service that keeps your vehicle in top condition.</p>
         <p>Book your mobile oil change service today and experience the MOMS difference!</p>
       `}
       date="June 15, 2023"

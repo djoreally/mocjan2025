@@ -186,7 +186,7 @@ const FaqSection = () => {
       },
       {
         q: "Do you offer gift cards for mobile oil change services?",
-        a: "Yes, gift cards are available for purchase for any of our services. They make great gifts for car enthusiasts or anyone who values convenience.",
+        a: "Yes, gift cards are available for purchase for any of Our Oil Change Services. They make great gifts for car enthusiasts or anyone who values convenience.",
       },
       {
         q: "What areas do you plan to expand your mobile oil change service to?",

@@ -61,7 +61,7 @@ const TopBar = () => {
           )}
         </div>
         <div className="flex items-center space-x-4">
-          <Link href="/login" className="hover:text-blue-600">
+          <Link href="https://bookyouroilchange.com/signup" className="hover:text-blue-600">
             Login
           </Link>
           <Link href="/register" className="hover:text-blue-600">

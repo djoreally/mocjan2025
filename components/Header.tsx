@@ -132,7 +132,7 @@ const Header = () => {
               Book Now
             </Link>
             <Link
-              href="/login"
+              href="https://bookyouroilchange.com/signup"
               className="block py-2 text-primary-700 hover:text-primary-800"
               onClick={closeMobileMenu}
             >

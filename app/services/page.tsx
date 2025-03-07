@@ -213,7 +213,7 @@ export default function ServicesPage() {
       {/* Hero Section */}
       <div className="bg-blue-600 py-20 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">MOMS Mobile Oil Change Services</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Fast & Reliable Mobile Oil Change Near Me | On-Demand Service at Your Location</h1>
           <p className="text-xl md:text-2xl mb-8">Quality mobile oil change service at everyday low prices</p>
           <Link
             href="https://momsoilchange.bookyouroilchange.com/"
@@ -225,7 +225,7 @@ export default function ServicesPage() {
       </div>
 
       <div className="container mx-auto px-4 py-12">
-        <h2 className="text-3xl font-bold text-center mb-12">Our Services</h2>
+        <h2 className="text-3xl font-bold text-center mb-12">Our Oil Change Services</h2>
         <div className="grid md:grid-cols-2 gap-6 mb-12">
           {services.map((service) => (
             <ServiceCard
