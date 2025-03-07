@@ -19,62 +19,13 @@ export default function BookingPage() {
           height={200}
           className="mx-auto mb-8"
         />
-        <div className="text-center">
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
-          <Link href="/services" className="text-blue-600 hover:underline">
-            View Our Services
-          </Link>
-          <Link href="/blog" className="text-blue-600 hover:underline">
-            Read Our Blog
-          </Link>
+        <Link href="/services" className="text-blue-600 hover:underline">
+          View Our Services
+        </Link>
+        <Link href="/blog" className="text-blue-600 hover:underline">
+          Read Our Blog
+        </Link>
+        <Link
           href="https://momsoilchange.bookyouroilchange.com"
           target="_blank"
           rel="noopener noreferrer"
