@@ -1,47 +1,25 @@
+import ContactForm from "@/components/ContactForm"
 import type { Metadata } from "next"
-import ContactFormEmbed from "@/components/ContactFormEmbed"
 
 export const metadata: Metadata = {
-  title: "Contact MOMS Mobile Oil Change | Schedule Your Oil Change Near You",
-  description:
-    "Get in touch with MOMS Mobile Oil Change for all your mobile oil change needs. Schedule an appointment or inquire about Our Oil Change Services inAmbler, PA and surrounding areas.",
+  title: "Contact Us | MOMS Mobile Oil Change",
+  description: "Get in touch with MOMS Mobile Oil Change for any questions or concerns about our mobile oil change service.",
 }
 
-export default function Contact() {
+export default function ContactPage() {
   return (
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6">Contact MOMS Mobile Oil Change</h1>
-      <div className="max-w-2xl mx-auto">
-        <p className="mb-8">
-          Need to schedule a mobile oil change or have questions about Our Oil Change Services? Fill out the form below, and we'll
-          get back to you as soon as possible. Our team is ready to bring convenient oil changes right to your location!
-        </p>
-        <ContactFormEmbed />
-        <div className="mt-12">
-          <h2 className="text-2xl font-bold mb-4">Our Service Areas</h2>
-          <p className="mb-4">
-            MOMS Mobile Oil Change proudly serves Ambler, PA and the following surrounding areas:
-          </p>
-          <ul className="list-disc list-inside mb-4">
-            <li>Ambler</li>
-            <li>Horsham</li>
-            <li>Main Line</li>
-            <li>Warminster</li>
-          </ul>
-          <p>
-            Not sure if we service your area? Contact us, and we'll let you know if we can bring our mobile oil change
-            service to you!
+    <div className="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto">
+        <div className="text-center">
+          <h1 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
+            Contact Us
+          </h1>
+          <p className="mt-4 text-lg text-gray-500">
+            Have questions? We'd love to hear from you.
           </p>
         </div>
-        <div className="mt-12">
-          <h2 className="text-2xl font-bold mb-4">Why Choose MOMS Mobile Oil Change?</h2>
-          <ul className="list-disc list-inside mb-4">
-            <li>Convenient oil changes at your location</li>
-            <li>Professional, certified technicians</li>
-            <li>High-quality oil and filters</li>
-            <li>Competitive pricing</li>
-            <li>Flexible scheduling, including weekends</li>
-          </ul>
+        <div className="mt-12 flex justify-center">
+          <ContactForm />
         </div>
       </div>
     </div>
