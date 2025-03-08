@@ -2,6 +2,7 @@ import Image from "next/image"
 import { fetchSinglePost } from "@/utils/wordpress"
 import { notFound } from "next/navigation"
 import type { Metadata } from "next"
+import AuthorProfile from "@/components/AuthorProfile"
 
 export const revalidate = 3600 // Revalidate every hour
 
@@ -56,6 +57,7 @@ export default async function BlogPost({ params }: { params: { slug: string } })
         )}
         <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: post.content }} />
       </article>
+      <AuthorProfile />
     </div>
   )
 }
