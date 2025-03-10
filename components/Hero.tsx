@@ -30,15 +30,8 @@ export default function Hero() {
           </h1>
           
           <p className="text-2xl text-white mb-8">
-            No need to call. Our self-booking allows you to find the day and time that best fits your schedule. We change your oil, not your schedule.
+            We change your oil, not your schedule. Our self-booking allows you to find the day and time that best fits your schedule. 
           </p>
-
-          {/* Marquee Text */}
-          <div className="overflow-hidden whitespace-nowrap text-xl text-yellow-400 font-semibold">
-            <div className="animate-marquee inline-block">
-              Get Your Oil Changed At <span className="mx-4">Home</span> • <span className="mx-4">Work</span> • <span className="mx-4">Anywhere</span>
-            </div>
-          </div>
           
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mt-6">
