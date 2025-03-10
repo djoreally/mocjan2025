@@ -65,8 +65,8 @@ const CouponPopup = () => {
         <button onClick={handleClose} className="absolute top-2 right-2 text-gray-500 hover:text-gray-700">
           <X size={24} />
         </button>
-        <h2 className="text-2xl font-bold mb-4 text-center">First-Time Customer Special</h2>
-        <p className="mb-4 text-center">Enjoy $10 off your first oil change!</p>
+        <h2 className="text-2xl font-bold mb-4 text-center">March Madness Special</h2>
+        <p className="mb-4 text-center">Enjoy $40 off your first oil change!</p>
         <div className="text-center mb-4">
           <p className="font-semibold">Promo Code:</p>
           <p className="text-3xl font-bold text-blue-600">WELCOME10</p>
