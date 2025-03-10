@@ -5,6 +5,8 @@ export default function AmblerServiceAreaPage() {
   const router = useRouter();
   const { city } = router.query; // Extract city from query parameters
 
+  // Ensure the URL does not include the (app) segment
+
   return (
     <div>
       <h1>Mobile Oil Change in {city} Service Area | Convenient On-Demand Service</h1>

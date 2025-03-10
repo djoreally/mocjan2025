@@ -1,8 +1,10 @@
 import { useRouter } from 'next/router'; // Ensure correct import for routing
 
-export default function AllentownServiceAreaPage() {
+export default function DoylestownServiceAreaPage() {
   const router = useRouter();
   const { city } = router.query; // Extract city from query parameters
+
+  // Ensure the URL does not include the (app) segment
 
   return (
     <div>
