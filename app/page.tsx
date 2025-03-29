@@ -39,10 +39,10 @@ export default function Home() {
           <div className="w-full px-6 lg:px-8 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 bg-gradient-to-b from-blue-900 to-black">
             <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
               <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-                Hassle-Free, On-Demand Oil Changes at Your Location
+                Philadelphia’s Best Mobile Oil Change Service 
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-              Get your oil changed right at your home. Our mobile mechanics will change your oil right in your driveway, garage or parking lot.
+              Our mobile mechanics come to you—whether it's your driveway, garage, or parking lot—so you can skip the shop and get back to your day.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <Link
