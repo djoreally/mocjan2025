@@ -14,5 +14,9 @@ export default {
     site: "@MOMSOilChange",
     cardType: "summary_large_image",
   },
+  // Metadata for Ambler location page
+  ambler: {
+    title: "Oil Change in Ambler, PA 19002 | Fast & Convenient Service",
+    description: "Find reliable and convenient oil change services in Ambler, PA 19002. Discover why local drivers trust us for top-quality automotive care.",
+  },
 }
-
