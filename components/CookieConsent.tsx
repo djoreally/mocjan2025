@@ -4,11 +4,11 @@ import { useState, useEffect } from "react"
 import Link from "next/link"
 
 const CookieConsent = () => {
-  const [showConsent, setShowConsent] = useState(false)
+  const [showConsent, setShowConsent] = useState(true)
 
   useEffect(() => {
     const consent = localStorage.getItem("cookieConsent")
-    if (consent === null) {
+    if (!consent) {
       setShowConsent(true)
     }
   }, [])
@@ -29,7 +29,7 @@ const CookieConsent = () => {
     }
   }
 
-  if (typeof window !== "undefined" && localStorage.getItem("cookieConsent") !== null) return null
+  if (!showConsent) return null
 
   return (
     <div className="fixed bottom-0 left-0 right-0 bg-gray-800 text-white p-4 z-50">

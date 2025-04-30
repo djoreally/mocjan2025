@@ -8,8 +8,8 @@ const services = [
     title: "Full Synthetic Oil Change",
     description:
       "Premium maintenance service performed right at your location. Our certified technicians use top-quality products for superior protection and performance.",
-    price: "$89.00",
-    originalPrice: "$99.00",
+    price: "$99.00",
+    originalPrice: "$115.00",
     rating: 4.9,
     reviews: 200,
     image:
@@ -17,7 +17,7 @@ const services = [
     features: [
       "Premium synthetic oil (up to 5 quarts)",
       "New oil filter installation",
-      "Comprehensive 23-point inspection",
+      "Visual-inspection",
       "Convenient mobile service",
       "Certified technicians",
     ],

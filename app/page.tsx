@@ -6,7 +6,6 @@ import ReviewCarousel from "@/components/ReviewCarousel"
 import ServiceArea from "@/components/ServiceArea"
 import FAQ from "@/components/FAQ"
 import ContactFormEmbed from "@/components/ContactFormEmbed"
-import CouponPopup from "@/components/CouponPopup"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -104,7 +103,6 @@ export default function Home() {
           <ContactFormEmbed />
         </div>
       </div>
-      <CouponPopup />
     </>
   )
 }
