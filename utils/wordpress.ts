@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const WORDPRESS_API_URL = "https://booking.momsoilchange.com/graphql"
+const WORDPRESS_API_URL = "https://oilchangeblog.momsoilchange.com/graphql"
 
 const wordpressApi = axios.create({
   baseURL: WORDPRESS_API_URL,
